@@ -11,11 +11,11 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
-  <img align="center" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
-  <img align="center" height="70" width="60" src="https://www.producttranquility.com/wp-content/uploads/2021/07/Google-Looker-Logo-Full.svg"> 
+  <img align="center" height="70" width="70" src="https://www.producttranquility.com/wp-content/uploads/2021/07/Google-Looker-Logo-Full.svg"> 
 
   <img align="center" height="70" width="60" src = "https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"/>
   
