@@ -19,8 +19,7 @@
 
   <img align="center" height="50" width="60" src="https://www.producttranquility.com/wp-content/uploads/2021/07/Google-Looker-Logo-Full.svg"> 
 
-  <img align="center" height="50" width="60"
-src = "https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"/>
+  <img align="center" height="50" width="40" src = "https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"/>
 
 
 </div>
