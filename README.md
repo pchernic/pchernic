@@ -11,16 +11,17 @@
 
 <div style="display: inline_block"><br>
   
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img align="center" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
           
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+  <img align="center" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
-  <img align="center" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
+  <img align="center" height="70" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" />
 
-  <img align="center" height="50" width="60" src="https://www.producttranquility.com/wp-content/uploads/2021/07/Google-Looker-Logo-Full.svg"> 
+  <img align="center" height="70" width="60" src="https://www.producttranquility.com/wp-content/uploads/2021/07/Google-Looker-Logo-Full.svg"> 
 
-  <img align="center" height="50" width="40" src = "https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"/>
-
+  <img align="center" height="70" width="60" src = "https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"/>
+  
+  <img align="center" height="70" width="70" src = "https://th.bing.com/th/id/R.34ca64c9a81508f1770bd402d29927d1?rik=h0ACtuHOklD1Mw&pid=ImgRaw&r=0)"/>
 
 </div>
 
