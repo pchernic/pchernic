@@ -2,9 +2,7 @@
 
 ---
 
-🌍 International Relations Graduate | 💰 Accounting and Finance Graduate | 📊 Business Management Postgraduate | 📈 Trader & Investor
-
-📚 Lifelong Learner | 🔍 Data Enthusiast | 📊 Business Intelligence & Analytics
+🌍 International Relations Graduate | 💰 Accounting and Finance Graduate | 📊 Business Management Postgraduate | 📈 Trader & Investor | 🔍 Data Enthusiast | 📊 Business Intelligence & Analytics | 📚 Lifelong Learner 
 
 📊 My passion for the financial markets, technology, and international business has led me to seek a transition into the world of data analysis and data science. Over the past years, I've dedicated myself to studying technology, with a focus on data analysis and data science, leveraging my analytical and critical thinking skills to excel in this dynamic field. 
 
