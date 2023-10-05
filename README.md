@@ -1,6 +1,17 @@
-### Hi there, I'm Paulo Chernicharo 👋
+### Hi there, I'm Paulo Chernicharo 
+
+---
+
+🌍 International Relations Graduate | 💰 Accounting and Finance Graduate | 📊 Business Management Postgraduate | 📈 Trader & Investor
+
+📚 Lifelong Learner | 🔍 Data Enthusiast | 📊 Business Intelligence & Analytics
+
+📊 My passion for the financial markets, technology, and international business has led me to seek a transition into the world of data analysis and data science. Over the past years, I've dedicated myself to studying technology, with a focus on data analysis and data science, leveraging my analytical and critical thinking skills to excel in this dynamic field. 
+
+🚀 I'm eager to embark on a new journey in data analytics and data science, leveraging my diverse background and skills to drive insights and make data-driven decisions in this ever-evolving field.
 
 
+---
 
 <div align="">
   <a href="https://github.com/pchernic">
