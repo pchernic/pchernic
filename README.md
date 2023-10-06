@@ -22,9 +22,9 @@
   
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 
-  <img align="center" height="70" width="90" src="https://on-train.com/wp-content/uploads/2021/03/Presentation1-1024x576.png" />
+  <img align="center" height="70" width="100" src="https://on-train.com/wp-content/uploads/2021/03/Presentation1-1024x576.png" />
   
-  <img align="center" height="70" width="90" src="https://i.ytimg.com/vi/cZ8QKuns-a8/maxresdefault.jpg"/>
+  <img align="center" height="70" width="100" src="https://i.ytimg.com/vi/cZ8QKuns-a8/maxresdefault.jpg"/>
           
   <img align="center" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
  
@@ -32,7 +32,7 @@
 
   <img align="center" height="70" width="90" src = "https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"/>
   
-  <img align="center" height="70" width="90" src = "https://th.bing.com/th/id/R.34ca64c9a81508f1770bd402d29927d1?rik=h0ACtuHOklD1Mw&pid=ImgRaw&r=0)"/>
+  <img align="center" height="90" width="100" src = "https://th.bing.com/th/id/R.34ca64c9a81508f1770bd402d29927d1?rik=h0ACtuHOklD1Mw&pid=ImgRaw&r=0)"/>
 
 </div>
 
