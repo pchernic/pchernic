@@ -32,7 +32,7 @@
 
   <img align="center" height="70" width="90" src = "https://www.tekenable.ie/wp-content/uploads/2019/09/PowerBI-Icon-Transparent.png"/>
   
-  <img align="center" height="90" width="100" src = "[https://th.bing.com/th/id/R.34ca64c9a81508f1770bd402d29927d1?rik=h0ACtuHOklD1Mw&pid=ImgRaw&r=0)](https://th.bing.com/th/id/OIP.juH1ZWUGcAC826-IjLYXAQAAAA?rs=1&pid=ImgDetMain](https://www.owlpoint.com/wp-content/uploads/2020/06/Foundation.png)"/>
+  <img align="center" height="90" width="100" src = "https://th.bing.com/th/id/R.34ca64c9a81508f1770bd402d29927d1?rik=h0ACtuHOklD1Mw&pid=ImgRaw&r=0)](https://th.bing.com/th/id/OIP.juH1ZWUGcAC826-IjLYXAQAAAA?rs=1&pid=ImgDetMain](https://www.owlpoint.com/wp-content/uploads/2020/06/Foundation.png"/>
 
 </div>
 
