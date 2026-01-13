@@ -2,7 +2,7 @@
 
 ---
 
-🌎 **International Relations Graduate** | 💼 **Accounting & Finance** | 🎓 **Postgrad in Business Management**  
+🌎 **International Relations BA** | 💼 **Accounting & Finance BA** | 🎓 **Postgrad in Business Management**  
 📈 **Trader & Investor** | 📊 **Data Analytics & BI Enthusiast** | 🧠 **Lifelong Learner**
 
 💡 I'm passionate about **financial markets**, **technology**, and **international business**. Over the past years, I've been transitioning into the world of **data analytics and data science**, combining my analytical mindset and diverse academic background to solve real-world business problems through data.
